@@ -70,7 +70,7 @@ const number = ${numberType}.fake(); // ${value}
                     <SampleCode
                         lang='html'
                         code={`
-<script src="/vendors/@phuocng/fake-numbers/umd/fake-numbers.min.js"></script>
+<script src="https://unpkg.com/@phuocng/fake-numbers@1.4.2/umd/fake-numbers.min.js"></script>
 
 <script>
 // Fake a number
