@@ -41,6 +41,7 @@ const NumberMetaMap: Map<NumberType, NumberMeta> = new Map([
     [ NumberType.Siren, { name: 'SIREN', description: '' } ],
     [ NumberType.Siret, { name: 'SIRET', description: '' } ],
     [ NumberType.Ssn, { name: 'SSN', description: 'Social Security Number' } ],
+    [ NumberType.Trn, { name: 'TRN', description: 'South African Tax Reference Number' } ],
     [ NumberType.Uid, { name: 'UID', description: 'Austrian VAT number' } ],
     [ NumberType.Vin, { name: 'VIN', description: 'Vehicle Identification Number' } ],
 ]);
