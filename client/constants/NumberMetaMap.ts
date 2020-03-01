@@ -16,6 +16,7 @@ interface NumberMeta {
 const NumberMetaMap: Map<NumberType, NumberMeta> = new Map([
     [ NumberType.Anum, { name: 'ANUM', description: 'Hungarian VAT number' } ],
     [ NumberType.Bic, { name: 'BIC', description: 'Business Identifier Code' } ],
+    [ NumberType.Bn, { name: 'BN', description: 'Canadian Business Number' } ],
     [ NumberType.Btw, { name: 'BTW', description: 'Belgian VAT number' } ],
     [ NumberType.Cnpj, { name: 'CNPJ', description: 'Brazilian company identifier' } ],
     [ NumberType.Cpf, { name: 'CPF', description: 'Brazilian identification number' } ],

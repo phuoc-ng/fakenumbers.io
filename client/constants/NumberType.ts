@@ -9,6 +9,7 @@
 enum NumberType {
     Anum = 'anum',
     Bic = 'bic',
+    Bn = 'bn',
     Btw = 'btw',
     Cnpj = 'cnpj',
     Cpf = 'cpf',
