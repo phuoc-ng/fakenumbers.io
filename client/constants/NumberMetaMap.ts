@@ -52,6 +52,7 @@ const NumberMetaMap: Map<NumberType, NumberMeta> = new Map([
     [ NumberType.Trn, { name: 'TRN', description: 'South African Tax Reference Number' } ],
     [ NumberType.Uid, { name: 'UID', description: 'Austrian VAT Number' } ],
     [ NumberType.Vin, { name: 'VIN', description: 'Vehicle Identification Number' } ],
+    [ NumberType.Vkn, { name: 'VKN', description: 'Turkish Tax Identification Number' } ],
 ]);
 
 export default NumberMetaMap;

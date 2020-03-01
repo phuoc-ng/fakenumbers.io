@@ -45,6 +45,7 @@ enum NumberType {
     Trn = 'trn',
     Uid = 'uid',
     Vin = 'vin',
+    Vkn = 'vkn',
 }
 
 export default NumberType;
