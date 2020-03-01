@@ -9,6 +9,7 @@
 enum NumberType {
     Abn = 'abn',
     Acn = 'acn',
+    Alv = 'alv',
     Anum = 'anum',
     Bic = 'bic',
     Bn = 'bn',
