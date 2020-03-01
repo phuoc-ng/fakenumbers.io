@@ -19,6 +19,7 @@ enum NumberType {
     CreditCard = 'creditCard',
     Cusip = 'cusip',
     Cvv = 'cvv',
+    Ddv = 'ddv',
     Ean = 'ean',
     Fpa = 'fpa',
     Iban = 'iban',
