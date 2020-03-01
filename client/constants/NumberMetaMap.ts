@@ -39,6 +39,7 @@ const NumberMetaMap: Map<NumberType, NumberMeta> = new Map([
     [ NumberType.Npi, { name: 'NPI', description: 'National Provider Identifier' } ],
     [ NumberType.Nif, { name: 'NIF', description: 'French Tax Identification Number' } ],
     [ NumberType.Nric, { name: 'NRIC', description: 'Singaporean National Registration Identity Card' } ],
+    [ NumberType.Pvm, { name: 'PVM', description: 'Lithuanian VAT Number' } ],
     [ NumberType.Rtn, { name: 'RTN', description: 'Routing Transit Number' } ],
     [ NumberType.Sedol, { name: 'SEDOL', description: 'Stock Exchange Daily Official List' } ],
     [ NumberType.Sin, { name: 'SIN', description: 'Canadian Social Insurance Number' } ],

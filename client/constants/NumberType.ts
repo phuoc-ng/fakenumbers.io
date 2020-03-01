@@ -32,6 +32,7 @@ enum NumberType {
     Nif = 'nif',
     Npi = 'npi',
     Nric = 'nric',
+    Pvm = 'pvm',
     Rtn = 'rtn',
     Sedol = 'sedol',
     Sin = 'sin',
