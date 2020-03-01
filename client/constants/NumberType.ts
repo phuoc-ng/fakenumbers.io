@@ -7,6 +7,7 @@
  */
 
 enum NumberType {
+    Abn = 'abn',
     Anum = 'anum',
     Bic = 'bic',
     Bn = 'bn',
