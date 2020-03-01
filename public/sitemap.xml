@@ -4,14 +4,23 @@
     <url><loc>https://fakenumbers.io/license</loc></url>
     <url><loc>https://fakenumbers.io/numbers</loc></url>
 
+    <url><loc>https://fakenumbers.io/numbers/abn</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/acn</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/alv</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/anum</loc></url>
     <url><loc>https://fakenumbers.io/numbers/bic</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/bn</loc></url>
     <url><loc>https://fakenumbers.io/numbers/btw</loc></url>
     <url><loc>https://fakenumbers.io/numbers/cnpj</loc></url>
     <url><loc>https://fakenumbers.io/numbers/cpf</loc></url>
     <url><loc>https://fakenumbers.io/numbers/creditCard</loc></url>
     <url><loc>https://fakenumbers.io/numbers/cusip</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/cvr</loc></url>
     <url><loc>https://fakenumbers.io/numbers/cvv</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/ddv</loc></url>
     <url><loc>https://fakenumbers.io/numbers/ean</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/fpa</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/iban</loc></url>
     <url><loc>https://fakenumbers.io/numbers/imei</loc></url>
     <url><loc>https://fakenumbers.io/numbers/imo</loc></url>
     <url><loc>https://fakenumbers.io/numbers/isbn</loc></url>
@@ -21,12 +30,18 @@
     <url><loc>https://fakenumbers.io/numbers/nif</loc></url>
     <url><loc>https://fakenumbers.io/numbers/npi</loc></url>
     <url><loc>https://fakenumbers.io/numbers/nric</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/pvm</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/rif</loc></url>
     <url><loc>https://fakenumbers.io/numbers/rtn</loc></url>
     <url><loc>https://fakenumbers.io/numbers/sedol</loc></url>
     <url><loc>https://fakenumbers.io/numbers/sin</loc></url>
     <url><loc>https://fakenumbers.io/numbers/siren</loc></url>
     <url><loc>https://fakenumbers.io/numbers/siret</loc></url>
     <url><loc>https://fakenumbers.io/numbers/ssn</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/svnr</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/tfn</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/trn</loc></url>
     <url><loc>https://fakenumbers.io/numbers/uid</loc></url>
     <url><loc>https://fakenumbers.io/numbers/vin</loc></url>
+    <url><loc>https://fakenumbers.io/numbers/vkn</loc></url>
 </urlset>
