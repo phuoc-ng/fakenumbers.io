@@ -38,6 +38,7 @@ enum NumberType {
     Siret = 'siret',
     Ssn = 'ssn',
     Svnr = 'svnr',
+    Tfn = 'tfn',
     Trn = 'trn',
     Uid = 'uid',
     Vin = 'vin',
