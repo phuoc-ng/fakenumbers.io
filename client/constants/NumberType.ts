@@ -18,6 +18,7 @@ enum NumberType {
     Cvv = 'cvv',
     Ean = 'ean',
     Fpa = 'fpa',
+    Iban = 'iban',
     Imei = 'imei',
     Imo = 'imo',
     Isbn = 'isbn',
