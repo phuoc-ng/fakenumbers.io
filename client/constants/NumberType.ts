@@ -18,6 +18,7 @@ enum NumberType {
     Cpf = 'cpf',
     CreditCard = 'creditCard',
     Cusip = 'cusip',
+    Cvr = 'cvr',
     Cvv = 'cvv',
     Ddv = 'ddv',
     Ean = 'ean',
