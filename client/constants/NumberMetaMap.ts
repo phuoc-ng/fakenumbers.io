@@ -15,6 +15,7 @@ interface NumberMeta {
 
 const NumberMetaMap: Map<NumberType, NumberMeta> = new Map([
     [ NumberType.Abn, { name: 'ABN', description: 'Australian Business Number' } ],
+    [ NumberType.Acn, { name: 'ACN', description: 'Australian Company Number' } ],
     [ NumberType.Anum, { name: 'ANUM', description: 'Hungarian VAT number' } ],
     [ NumberType.Bic, { name: 'BIC', description: 'Business Identifier Code' } ],
     [ NumberType.Bn, { name: 'BN', description: 'Canadian Business Number' } ],
