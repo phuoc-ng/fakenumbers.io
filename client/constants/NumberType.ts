@@ -17,6 +17,7 @@ enum NumberType {
     Cusip = 'cusip',
     Cvv = 'cvv',
     Ean = 'ean',
+    Fpa = 'fpa',
     Imei = 'imei',
     Imo = 'imo',
     Isbn = 'isbn',

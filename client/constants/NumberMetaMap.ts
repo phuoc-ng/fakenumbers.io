@@ -24,6 +24,7 @@ const NumberMetaMap: Map<NumberType, NumberMeta> = new Map([
     [ NumberType.Cusip, { name: 'CUSIP', description: 'Committee on Uniform Security Identification Procedures' } ],
     [ NumberType.Cvv, { name: 'CVV', description: 'Card Verification Value' } ],
     [ NumberType.Ean, { name: 'EAN', description: 'International Article Number' } ],
+    [ NumberType.Fpa, { name: 'FPA', description: 'Greek VAT number' } ],
     [ NumberType.Imei, { name: 'IMEI', description: 'International Mobile Equipment Identity' } ],
     [ NumberType.Imo, { name: 'IMO', description: 'International Maritime Organization' } ],
     [ NumberType.Isbn, { name: 'ISBN', description: 'International Standard Book Number' } ],
